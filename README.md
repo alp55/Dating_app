@@ -33,8 +33,7 @@ A modern dating app clone built with Flutter, featuring interactive card swipes,
 
 ## Screenshots
 
-![Screenshot1](path/to/screenshot1.png)
-![Screenshot2](path/to/screenshot2.png)
+![Screenshot_1736195440](https://github.com/user-attachments/assets/9f0d87f5-2829-4718-9ecc-3e4832493fa9)
 
 ## Technologies Used
 
@@ -76,13 +75,7 @@ A modern dating app clone built with Flutter, featuring interactive card swipes,
 
 ## Project Structure
 
-## Contributing
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
@@ -95,7 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the Flutter community
 
 ## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
 
 Project Link: [https://github.com/your-username/dateapp](https://github.com/your-username/dateapp)
