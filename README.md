@@ -89,4 +89,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Project Link: [[https://github.com/your-username/dateapp](https://github.com/alp55/Dating_app)]
+Project Link: [[https://github.com/alp55/Dating_app](https://github.com/alp55/Dating_app)]
